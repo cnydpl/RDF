@@ -35,4 +35,6 @@ dependencies {
     compile 'com.google.zxing:core:3.2.1'
     compile 'cn.bingoogolapple:bga-qrcodecore:1.0.8@aar'
     compile 'cn.bingoogolapple:bga-zxing:1.0.8@aar'
+    compile 'org.roboguice:roboguice:3.+'
+    provided 'org.roboguice:roboblender:3.+'
 }
