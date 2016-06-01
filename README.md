@@ -19,6 +19,9 @@ Rapid Development Framework.快速开发框架。
 
 8. 二维码生成，扫描 [BGAQRCode](https://github.com/bingoogolapple/BGAQRCode-Android)
 
+9. 注解，Google官方提供的[RoboGuice](https://github.com/roboguice/roboguice/wiki) 
+
+
 ## 实用功能：
 
 [Essentials](https://github.com/greenrobot/essentials)，包括基于流的IO操作，文件，字符串，和日期时间。
