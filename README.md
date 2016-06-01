@@ -13,11 +13,11 @@ Rapid Development Framework.快速开发框架。
 
 5. APP崩溃处理：[CustomActivityOnCrash](https://github.com/Ereza/CustomActivityOnCrash)
 
-6. 安全的Java－JS互调功能[Safe Java-JS WebView Bridge](https://github.com/pedant/safe-java-js-webview-bridge)
+6. 安全的Java和JS互调功能 [Safe Java-JS WebView Bridge](https://github.com/pedant/safe-java-js-webview-bridge)
 
 7. 自动适配 [AndroidAutoLayout](https://github.com/hongyangAndroid/AndroidAutoLayout)
 
-8. 二维码生成，扫描[BGAQRCode](https://github.com/bingoogolapple/BGAQRCode-Android)
+8. 二维码生成，扫描 [BGAQRCode](https://github.com/bingoogolapple/BGAQRCode-Android)
 
 ## 实用功能：
 
@@ -25,3 +25,6 @@ Rapid Development Framework.快速开发框架。
 
 [LiteCommon](https://github.com/litesuits/android-common) 一系列通用类、辅助类、工具类的集合
 
+## About:
+
+82443751@qq.com
